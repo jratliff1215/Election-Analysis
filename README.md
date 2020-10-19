@@ -21,4 +21,6 @@ The Election Commission has requested a validation of the election results using
 
 # Election Audit Summary
   
-For future elections, the Python script can be modified to fit any election and audit the results. The fastest method to modify our script would be to change the file path. Since a CSV file
+For future elections, the Python script can be modified to fit any election and audit the results. The fastest method to modify our script would be to change the file path. If a CSV file is compiled for each election, the user would modify the following section to link the file to the script. 
+
+
