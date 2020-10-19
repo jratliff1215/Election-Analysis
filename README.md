@@ -3,6 +3,7 @@
 The Election Commission has requested a validation of the election results using Python. The analysis includes voter turnout by county the percent of votes from each county (based on total votes), and the county with the highest voter turnout. Python allows for accurate reporting of this information to the election commission. If successful, the Election Commission will use a similar method for other election result reporting. 
 
 # Election Audit Results
+*Full results shown in Appendix A.
 
 * How many votes were cast in this congressional election?
   * Total votes in the election was 369,711.
@@ -26,3 +27,10 @@ For future elections, the Python script can be modified to fit any election and 
 <img src="https://github.com/jratliff1215/Election-Analysis/blob/main/Resources/File%20Modification%201.PNG" width="500" height="120">
 
 In a deeper analysis, votes for each candidate by county could be added to the script. This may show anomalies in the popularity of a candidate by county. For example, Charles Casper Stockham received the popular vote in Jefferson County, with 19,723 votes compared to the overall winner (Diana DeGette) with only 17,963. This information could be used by each candidate to show where their campaign was successful and where additional campaigning may be necessary in future elections. 
+
+
+
+## Appendix A
+
+<img src= "https://github.com/jratliff1215/Election-Analysis/blob/main/Resources/Terminal%20Code%20Completion.PNG" width="600" height="800">
+<img src
